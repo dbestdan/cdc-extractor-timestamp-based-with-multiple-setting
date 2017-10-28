@@ -1,0 +1,10 @@
+client1=bmsql_warehouse-w-1,bmsql_district-d-1,bmsql_customer-c-1,bmsql_history-h-1,bmsql_oorder-o-1, bmsql_new_order-no-1
+client2=bmsql_order_line-ol-2
+client3=bmsql_stock-s-2
+run_duration=120
+no_of_set=1
+no_of_experiment=1
+experiment_1=coordinatorSleepDuration_1280_runDuration_120
+url=jdbc:postgresql://hnode3:5432/benchmarksql
+user=postgres
+password=postgres
